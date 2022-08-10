@@ -1,10 +1,10 @@
 
 <h3 align="center">👋 Hi there! I'm Abdellah Lamrani Alaoui, co-founder and CTO @ Teker ✨</h3>
 <p align="center">
-  <a href="https://teker.ai">:link: Teker</a> -
+  <a href="https://teker.ai">🔗 Teker</a> -
   <a href="https://www.linkedin.com/in/abdellah-lamrani-alaoui-6288a4a6"> <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">Linkedin</a> -
   <a href="https://medium.com/@abdellah_lamrani_alaoui">📖 Medium</a> - 
-  <a href="mailto:abdellah@teker.ai">:email: abdellah@teker.ai</a>
+  <a href="mailto:abdellah@teker.ai">📧 abdellah@teker.ai</a>
 </p>
 
 
