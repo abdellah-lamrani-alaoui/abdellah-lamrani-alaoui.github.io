@@ -1,12 +1,11 @@
 
 <h3 align="center">👋 Hi there! I'm Abdellah Lamrani Alaoui, co-founder and CTO @ Teker ✨</h3>
 <p align="center">
-  <a href="https://teker.ai">🔗 Teker</a> -
-  <a href="https://www.linkedin.com/in/abdellah-lamrani-alaoui-6288a4a6"> <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">Linkedin</a> -
-  <a href="https://medium.com/@abdellah_lamrani_alaoui">📖 Medium</a> - 
-  <a href="mailto:abdellah@teker.ai">📧 abdellah@teker.ai</a>
+  <a href="https://teker.ai" target="_blank">:link: Teker</a> -
+  <a href="https://www.linkedin.com/in/abdellah-lamrani-alaoui-6288a4a6" target="_blank"> <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">Linkedin</a> -
+  <a href="https://medium.com/@abdellah_lamrani_alaoui" target="_blank">📖 Medium</a> - 
+  <a href="mailto:abdellah@teker.ai" target="_blank">:email: abdellah@teker.ai</a>
 </p>
-
 
 ---
 
@@ -19,7 +18,7 @@
 
 🔨 Teker is a no-code platform to build a self-service portal to automate customer support interactions. 
 
-🔗 Check out our website: <a href="https://teker.ai">Teker</a>
+🔗 Check out our website: <a href="https://teker.ai" target="_blank">Teker</a>
 
 
 ## 🙋 About me
