@@ -10,7 +10,7 @@
 ---
 
 
-## 🔨 A little word about what we are building @Teker
+## 🔨 A little word about what we are building @Presti
 
 ✨ Presti allows e-tailers to create engaging product visuals in a click, with generative AI. 
 
